@@ -7,9 +7,9 @@ from SingleLog import Logger
 
 # default value
 default_frame = 2
-default_delay = 30
+default_delay = 40
 image_size = 50
-y_offset = -18
+y_offset = -22
 default_color = 'black'
 default_width = 1
 
