@@ -8,7 +8,7 @@ from SingleLog import Logger
 # default value
 default_frame = 5
 default_delay = 100
-image_size = 50
+image_size = 200
 y_offset = -10
 default_color = 'black'
 default_width = 1
@@ -119,8 +119,8 @@ if __name__ == '__main__':
     args = parser.parse_args()
 
     if args.theme == 'dark':
-        background_color = 'black'
-        text_color = 'white'
+        background_color = 'blue'
+        text_color = 'black'
     else:
         background_color = 'white'
         text_color = 'black'
