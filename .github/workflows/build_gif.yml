@@ -11,11 +11,11 @@ on:
       gif_frame:
         description: 'Gif frame'
         required: true
-        default: '5'
+        default: '2'
       gif_delay:
         description: 'Gif delay'
         required: true
-        default: '50'
+        default: '30'
 
 jobs:
   build-gif:
