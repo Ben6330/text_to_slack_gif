@@ -6,7 +6,7 @@ from PIL import ImageFont, Image, ImageDraw
 from SingleLog import Logger
 
 # default value
-default_frame = 5
+default_frame = 3
 default_delay = 30
 image_size = 80
 y_offset = -5
